@@ -1,3 +1,4 @@
+#master challenge
 import random
 
 class SecurePrng:
